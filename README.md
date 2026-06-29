@@ -1,9 +1,8 @@
 <div align="left">
   <a href="https://ayushnaaa.github.io/">
-    <img src="https://img.shields.io/badge/🌐%20Website-?style=for-the-badge&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=githubpages&logoColor=white"/>
   </a>
 </div>
-
 
 • **@University of Waterloo Engineering** — Focused on AI, Product, and Data
 
