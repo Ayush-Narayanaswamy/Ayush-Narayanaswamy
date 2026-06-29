@@ -1,6 +1,6 @@
 <div align="left">
   <a href="https://ayushnaaa.github.io/">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio%20–Website-?style=for-the-badge&logoColor=white"/>
+    <img src="https://img.shields.io/badge/🌐%20Website-?style=for-the-badge&logoColor=white"/>
   </a>
 </div>
 
