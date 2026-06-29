@@ -8,27 +8,14 @@
 </div>
 <h3 align="center"> about me </h3>
 
-• **@University of Waterloo Engineering** — Focused on AI, Product, and Data
+- currently AI software engineer @[corall](https://corall.co/), fullstack engineering building voice agents, copilot features and UI/UX for modern networking
+- previously product + software dev @[localstudent](https://localstudent.com/), swe @spath labs, product + swe @[UWFE](https://www.uwfsae.ca/)
+- focused on applied development with agents, working on @[engram](https://engram-pi-ruddy.vercel.app/)
+- hackathon winner; [4x](https://devpost.com/ayushnarayanaswamy)
+- on the side I lift, play basketball, create content, swim and travel
+- seeking winter 27' product/ai/data/swe internships
 
-• **AI Software Engineer @ [Corall](https://corall.co/)** - Fullstack + Agentic Copilot Development 
-
-• **Product Development Intern @ [LocalStudent](https://localstudent.com)** 
-
-• 4x Hackathon Winner
-
-• Seeking Winter 27' Product/SWE/Data Internships
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=AyushNaaa&theme=tokyonight&hide_border=true&background=00000000&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" height="150"/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushNaaa&theme=tokyonight&hide_border=true&layout=compact" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AyushNaaa&color=58a6ff&style=flat-square&label=views" />
-</p>
-
-### Tech Stack
+<h3 align="center"> my stack </h3>
 
 <p align="left">
 
@@ -52,6 +39,12 @@
 <img src="https://img.shields.io/badge/REST%20API-111111?style=for-the-badge&logo=fastapi&logoColor=white">
 <img src="https://img.shields.io/badge/Jira-111111?style=for-the-badge&logo=jira&logoColor=white">
 <img src="https://img.shields.io/badge/Slack-111111?style=for-the-badge&logo=slack&logoColor=white">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=AyushNaaa&theme=tokyonight&hide_border=true&background=00000000&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" height="150"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushNaaa&theme=tokyonight&hide_border=true&layout=compact" height="150"/>
 </p>
 
 ### Connect
