@@ -6,12 +6,10 @@
 
 
 • **@University of Waterloo Engineering** — Focused on AI, Product, and Data
-
 • **AI Software Engineer @ [Corall](https://corall.co/)** - Fullstack + Agentic Copilot Development 
-
 • **Product Development Intern @ [LocalStudent](https://localstudent.com)** 
-
-• Founder of **Engram** - Your company memory, mapped in a semantic space. All inclusive SaaS with over 25 connectors, so you never waste time onboarding or researching old data again. Live and deployed on Vercel. Waitlist coming soon.
+• 4x Hackathon Winner
+• Seeking Winter 27' Product/SWE/Data Internships
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=AyushNaaa&theme=tokyonight&hide_border=true&background=00000000&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" height="150"/>
