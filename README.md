@@ -1,9 +1,12 @@
 <h3 align="center"> Engineering @ University of Waterloo </h3>
-<div align="left">
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ayushnaaa&color=blue" />
+
   <a href="https://ayushnaaa.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Website-ayushnaaa.github.io-4A90E2?style=flat" />
   </a>
 </div>
+<h3 align="center"> about me </h3>
 
 • **@University of Waterloo Engineering** — Focused on AI, Product, and Data
 
