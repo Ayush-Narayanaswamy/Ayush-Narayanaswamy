@@ -6,9 +6,13 @@
 
 
 • **@University of Waterloo Engineering** — Focused on AI, Product, and Data
+
 • **AI Software Engineer @ [Corall](https://corall.co/)** - Fullstack + Agentic Copilot Development 
+
 • **Product Development Intern @ [LocalStudent](https://localstudent.com)** 
+
 • 4x Hackathon Winner
+
 • Seeking Winter 27' Product/SWE/Data Internships
 
 <p align="center">
