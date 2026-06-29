@@ -1,3 +1,4 @@
+<h3 align="center"> Engineering @ University of Waterloo </h3>
 <div align="left">
   <a href="https://ayushnaaa.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white"/>
