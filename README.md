@@ -85,6 +85,7 @@
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe_API-635BFF?style=flat-square&logo=stripe&logoColor=white)
 
+![snake](https://raw.githubusercontent.com/AyushNaaa/AyushNaaa/output/github-snake-dark.svg)
 
 
 <p align="center">
@@ -93,24 +94,21 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushNaaa&theme=tokyonight&hide_border=true&layout=compact" height="150"/>
 </p>
 
-<h3 align="center"> connect </h3>
+<h3 align="left"> connect </h3>
 
 <p>
 
 <a href="mailto:a6naraya@uwaterloo.ca">
-<img src="https://img.shields.io/badge/a6naraya@uwaterloo.ca-000000?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/UW_Mail-EA4335?style=flat-square&logo=gmail&logoColor=white">
 </a>
-
 <a href="mailto:ayushnarayanaswamy@gmail.com">
-<img src="https://img.shields.io/badge/ayushnarayanaswamy@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white">
 </a>
-
 <a href="https://www.linkedin.com/in/ayush-narayanaswamy">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
 </a>
-
 <a href="https://x.com/ayushnaaa">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
+<img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white">
 </a>
 
 </p>
