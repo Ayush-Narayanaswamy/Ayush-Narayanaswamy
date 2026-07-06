@@ -90,7 +90,6 @@
 </p>
 
 <h3 align="left"> connect </h3>
-
 <p>
 
 <a href="mailto:a6naraya@uwaterloo.ca">
