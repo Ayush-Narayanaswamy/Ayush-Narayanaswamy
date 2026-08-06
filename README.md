@@ -8,8 +8,8 @@
 </div>
 <h3 align="center"> about me </h3>
 
-- currently AI software engineer @[corall](https://corall.co/), lead fullstack engineer building voice agents, copilot features and UI/UX for networking
-- previously product + software dev @[localstudent](https://localstudent.com/), swe @spath labs, product + swe @[UWFE](https://www.uwfsae.ca/)
+- curr. AI software engineer @[corall](https://corall.co/), lead fullstack engineer building voice agents, copilot features and UI/UX of prod website
+- prev. product + software dev @[localstudent](https://localstudent.com/), swe @spath labs, product + swe @[UWFE](https://www.uwfsae.ca/)
 - focused on applied development with agents, working on @[engram](https://engram-pi-ruddy.vercel.app/)
 - hackathon winner; [4x](https://devpost.com/ayushnarayanaswamy)
 - on the side I lift, play basketball, create content, swim and travel
